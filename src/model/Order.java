@@ -1,3 +1,5 @@
+package model;
+
 public class Order {
     private int id;
     private String customer;
@@ -39,8 +41,7 @@ public class Order {
 
     @Override
     public String toString() {
-        return String.format("[#%d] Customer: %s | Amount: $%.2f | Type: %s | Status: %s"
-            id, customer, amount, type, status);
+        return "[#" + id + "] Customer: " + customer + " | Amount: $" + amount + " | Type: " + type + " | Status: " + status;
     }
 
 }
