@@ -1,7 +1,7 @@
 # Order processing System with Priority Queue
 
 ## About the Project
-This repository contains a functiional Java application developed as part of the **Algorithms and Data Structures** assignment at Unifil. The core objective is to solve a simulated real-word problem using efficient computational data management.
+This repository contains a functional Java application developed as part of the **Algorithms and Data Structures** assignment at Unifil. The core objective is to solve a simulated real-word problem using efficient computational data management.
 
 ## The Real-World Problem 
 In high-volume e-commerce or logistics hubs, order cannot always be processed on a strictly first-come, first-served basis. Urgent orders or express shipping requsts immediate fulfillment to meet strict business timelines.
