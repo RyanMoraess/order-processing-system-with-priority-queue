@@ -8,7 +8,7 @@ In high-volume e-commerce or logistics hubs, order cannot always be processed on
 
 This system simulates an automated dispatch system where incoming orders are dynamically routed and prioritized based on operational rules rather than arrival time alone.
 
-## Data Structure $ Operations
+## Data Structure & Operations
 
 To meet the academic requirements, this project implements a **Priority Queue mechanism** using multiple standard Queues. The implementation covers all fundamental data operations:
 * **Equeue (Insertaion):** Orders are analyzed and placed into either the 'priorityQueue' or 'normalQueue' based on their type.
