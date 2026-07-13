@@ -11,7 +11,7 @@ This system simulates an automated dispatch system where incoming orders are dyn
 ## Data Structure & Operations
 
 To meet the academic requirements, this project implements a **Priority Queue mechanism** using multiple standard Queues. The implementation covers all fundamental data operations:
-* **Equeue (Insertaion):** Orders are analyzed and placed into either the 'priorityQueue' or 'normalQueue' based on their type.
+* **Equeue (Insertation):** Orders are analyzed and placed into either the 'priorityQueue' or 'normalQueue' based on their type.
 * **Dequeue (Removal):** The system processes and removes the highest-priority orders first. Normal orders are handled only when the prorioty queue is empty.
 * **Collection Tracking:** A history list tracks processed orders for analytics, and generating dynamic metrics.
 
